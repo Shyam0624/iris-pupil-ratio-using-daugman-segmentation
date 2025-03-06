@@ -1,7 +1,7 @@
 import sys
 import time
 import cv2
-from dummydaugman import irisSeg  # Ensure irisSeg.py is in the correct directory
+from DaugmanSegmentation import irisSeg  # Ensure irisSeg.py is in the correct directory
 import numpy as np
 import os
 
