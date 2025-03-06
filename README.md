@@ -45,9 +45,9 @@ python main.py
 
 3. **Iris-to-Pupil Ratio Calculation** 📊  
    - Computes ratio as:  
-     \[
-     \text{Ratio} = \frac{\text{Iris Radius}}{\text{Pupil Radius}}
-     \]  
+     
+     **Ratio** = **Iris Radius**/**Pupil Radius**
+     
 
 4. **Real-time Visualization** 🎥  
    - Annotates the **segmentation results and ratio** on the video feed.  
