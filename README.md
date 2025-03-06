@@ -56,6 +56,6 @@ python main.py
 ## **📸 Sample Results**  
 | Image | Iris-to-Pupil Ratio |
 |-------|---------------------|
-| 1.![Left Eye]("C:\Users\shyam\Desktop\CNN\irisSeg-master\capture_frame\L1.jpg") | **3.11** |
-| 2.![Right Eye]("C:\Users\shyam\Desktop\CNN\irisSeg-master\capture_frame\R1.jpg") | **3.06** |
-| 3.![Partial Eye]("C:\Users\shyam\Desktop\CNN\irisSeg-master\capture_frame\L3.jpg")| **2.41** |
+| 1.![image](https://github.com/user-attachments/assets/1b3ce288-396c-4218-a6a2-2a6a64ab1b3a) | **3.11** |
+| 2.![image](https://github.com/user-attachments/assets/02000de8-4c31-4731-9382-8edc96f14ddc) | **3.06** |
+| 3.![image](https://github.com/user-attachments/assets/e0eb304a-4a61-4c5c-b973-9698b07951c8) | **2.41** |
